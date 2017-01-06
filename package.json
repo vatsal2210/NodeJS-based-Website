@@ -1,0 +1,14 @@
+{
+  "name": "WebsiteSemple",
+  "version": "1.0.0",
+  "description": "Testing ",
+  "scripts": {
+    	"start" : "node server.js"
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+	"express" : "latest"
+}
+  "author": "Vatsal Shah",
+  "license": "ISC"
+}
