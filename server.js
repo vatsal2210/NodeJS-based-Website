@@ -26,7 +26,7 @@ app.use("*", function(req, res){
 	res.sendFile(path + "error.html");
 });
 
-app.listen(3030,function(){
-	console.log("Live at Port 3030");
+app.listen(8080,function(){
+	console.log("Live at Port 8080");
 });
 
